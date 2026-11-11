@@ -13,4 +13,10 @@ export const PROJECTS: Project[] = [
         technologies: ['React', 'TypeScript', 'Django', 'Python', 'Tailwind', 'Gemini'],
         repo: 'https://github.com/juanhincapieh/serenus',
     },
+    {
+        title: 'Ani Soto',
+        description: 'Portfolio for the Medellín fashion designer Ani Soto, with a pastel scrapbook look taken from her printed portfolio. The home page is a scroll-driven 3D walk through a procedural house, from the garden into a hall of collection rooms, leading to a gallery of each collection. Bilingual (English and Spanish) and server-rendered for SEO.',
+        technologies: ['Nuxt', 'Vue', 'TypeScript', 'Three.js', 'GSAP', 'Tailwind'],
+        url: 'https://anisoto.juanhincapieh.dev',
+    },
 ]
